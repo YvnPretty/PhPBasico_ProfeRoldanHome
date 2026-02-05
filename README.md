@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> PHP PROFE ROLDAN </h1>
-  <p><i>Desarrollo Backend - Entrega Profesional</i></p>
+  <p><i></i></p>
 </div>
 
 ---
@@ -49,4 +49,5 @@ Este repositorio contiene la coleccion completa de ejercicios desarrollados dura
   <p><i>curso php puro.</i></p>
   <p><i>holapapuautodidacta</i></p>
 </div>
+
 
