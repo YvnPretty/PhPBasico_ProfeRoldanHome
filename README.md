@@ -1,7 +1,7 @@
 # Proyecto: Curso de PHP Basico - Profe Roldan
 
 <div align="center">
-  <h1>🌸 PHP PROFE ROLDAN 🌸</h1>
+  <h1> PHP PROFE ROLDAN </h1>
   <p><i>Desarrollo Backend - Entrega Profesional</i></p>
 </div>
 
@@ -10,7 +10,7 @@
 ### **Informacion del Estudiante**
 *   **Alumno:** Cesar Meza Corella
 *   **Numero de Control:** 231190039
-*   **Institucion:** Tecnologico de Mexico
+*   **Institucion:** Tecnologico de Milpa ALta dos
 
 ---
 
